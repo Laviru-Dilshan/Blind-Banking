@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "385015694652",
+    "project_id": "blindbanking-c7179",
+    "storage_bucket": "blindbanking-c7179.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:385015694652:android:8f81775551a9751f67ca39",
+        "android_client_info": {
+          "package_name": "com.example.blindbnking"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA1CdAQMeYjPMiH7zI7Vjl90q0PAcp6gB8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:385015694652:android:de27000fe3b30b1267ca39",
+        "android_client_info": {
+          "package_name": "com.example.flutter_speech_to_text_tutorial"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA1CdAQMeYjPMiH7zI7Vjl90q0PAcp6gB8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
